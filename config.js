@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Ronits Thought Bucket',
+  subtitle: 'Development & Psychology With a Hint of Introspection',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -13,12 +13,12 @@ module.exports = {
   darkFunctionalityIsOn: true,
   menu: [
     {
-      label: 'Articles',
+      label: 'About me',
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'Writings',
+      path: '/pages/writings'
     },
     {
       label: 'Contact me',
@@ -26,9 +26,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Ronit Mathur',
+    photo: '/RonitProfilePicture.jpg',
+    bio: 'I'm a Student & Web Developer with passions from psychology to eastern spirituality!',
     contacts: {
       email: '',
       facebook: '#',
