@@ -28,7 +28,7 @@ module.exports = {
   author: {
     name: 'Ronit Mathur',
     photo: '/RonitProfilePicture.jpg',
-    bio: 'I'm a Student & Web Developer with passions from psychology to eastern spirituality!',
+    bio: 'Im a Student & Web Developer with passions from psychology to eastern spirituality!',
     contacts: {
       email: '',
       facebook: '#',
