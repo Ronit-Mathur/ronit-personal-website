@@ -14,11 +14,11 @@ module.exports = {
   menu: [
     {
       label: 'About me',
-      path: '/'
+      path: '/pages/about'
     },
     {
-      label: 'Writings',
-      path: '/pages/writings'
+      label: 'Articles',
+      path: '/'
     },
     {
       label: 'Contact me',
@@ -27,8 +27,8 @@ module.exports = {
   ],
   author: {
     name: 'Ronit Mathur',
-    photo: '/RonitProfilePicture.jpg',
-    bio: 'Im a Student & Web Developer with passions from psychology to eastern spirituality!',
+    photo: '/static/media/RonitProfilePicture.jpg',
+    bio: 'Im a Student & Web Developer with passions ranging from psychology to eastern spirituality!',
     contacts: {
       email: '',
       facebook: '#',
