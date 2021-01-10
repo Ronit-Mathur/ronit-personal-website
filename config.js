@@ -27,10 +27,10 @@ module.exports = {
   ],
   author: {
     name: 'Ronit Mathur',
-    photo: '/static/media/RonitProfilePicture.jpg',
-    bio: 'Mind, Heart, Body, & Web Dev'
+    photo: '/media/RonitProfilePicture.jpg',
+    bio: 'Mind, Heart, Body, & Web Dev',
     contacts: {
-      email: '',
+      email: 'mailto:ronitmathur19@gmail.com',
       facebook: '#',
       telegram: '#',
       twitter: '#',
