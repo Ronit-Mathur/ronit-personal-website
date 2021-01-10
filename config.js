@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://ronit-mathur.netlify.app/',
   pathPrefix: '/',
   title: 'Ronits Thought Bucket',
   subtitle: 'Development & Psychology With a Hint of Introspection',
@@ -27,10 +27,10 @@ module.exports = {
   ],
   author: {
     name: 'Ronit Mathur',
-    photo: 'static/media/RonitProfilePicture.jpg',
+    photo: '/RonitProfilePicture.jpg',
     bio: 'Mind, Heart, Body, & Web Dev',
     contacts: {
-      email: 'mailto:ronitmathur19@gmail.com',
+      email: 'ronitmathur19@gmail.com',
       facebook: '#',
       telegram: '#',
       twitter: '#',
