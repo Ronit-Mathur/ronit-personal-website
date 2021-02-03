@@ -8,7 +8,7 @@ import Page from '../components/Page';
 import Pagination from '../components/Pagination';
 import { useSiteMetadata } from '../hooks';
 import type { PageContext, AllMarkdownRemark } from '../types';
-
+import { GoodreadsShelf } from "../components/GoodreadsShelf";
 type Props = {
   data: AllMarkdownRemark,
   pageContext: PageContext
@@ -39,6 +39,7 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
           hasPrevPage={hasPrevPage}
           hasNextPage={hasNextPage}
         />
+        <GoodreadsShelf/>
       </Page>
     </Layout>
   );
