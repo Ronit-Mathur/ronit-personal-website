@@ -1,1 +1,1 @@
-export { default } from './GoodreadsShelf';
+export { GoodreadsShelf } from './GoodreadsShelf';
