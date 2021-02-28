@@ -1,7 +1,7 @@
 ---
 template: page
 title: Contact me
-slug: contact
+slug: Contact
 socialImage: /media/RonitProfilePicture.jpg
 draft: false
 ---
