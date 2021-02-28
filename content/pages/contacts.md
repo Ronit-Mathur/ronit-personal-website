@@ -1,7 +1,9 @@
 ---
-title: "Contact me"
-template: "page"
-socialImage: "/media/image-4.jpg"
+template: page
+title: Contact me
+slug: Contact
+socialImage: /media/RonitProfilePicture.jpg
+draft: false
 ---
 
 Ronitmathur19@gmail.com
