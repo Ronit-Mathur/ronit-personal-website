@@ -15,6 +15,12 @@ const createPages = async ({ graphql, actions }) => {
     component: path.resolve("./src/Custom Pages/Projects.js"),
   });
 
+  // Custom Projects Page
+  createPage({
+    path: "/Tetris",
+    component: path.resolve("./src/Custom Pages/Tetris.js"),
+  });
+
   // 404
   createPage({
     path: "/404",

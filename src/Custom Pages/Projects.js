@@ -10,7 +10,7 @@ class Projects extends Component {
       <Layout title={"Projects"} description={"My Current and Past Projects"}>
         <Sidebar isIndex />
         <Page>
-          <p>Test</p>
+          <a href="https://github.com/Ronit-Mathur">My Github!</a>
         </Page>
       </Layout>
     );
