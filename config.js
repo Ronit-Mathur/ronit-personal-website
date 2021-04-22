@@ -38,7 +38,7 @@ module.exports = {
       facebook: "#",
       telegram: "#",
       twitter: "#",
-      github: "#",
+      github: "#Ronit-Mathur",
       rss: "",
       vkontakte: "",
       linkedin: "#",
