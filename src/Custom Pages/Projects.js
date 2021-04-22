@@ -11,6 +11,7 @@ class Projects extends Component {
       <Layout title={"Projects"} description={"My Current and Past Projects"}>
         <Sidebar />
         <Page>
+          <h1>Control with arrow keys, rotate with up arrow</h1>
           <TetrisFrame />
         </Page>
       </Layout>
