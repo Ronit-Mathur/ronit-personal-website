@@ -4,4 +4,7 @@ template: "page"
 socialImage: "/media/RonitProfilePicture.jpg"
 ---
 
-_I dont know how you got on this site but I'm glad you're here! This website serves as a place to organize my thoughts on topics that I believe everyone should discover and explore. Many will be derived from my interests in Psychology, Web Development, Eastern Spirituality, and more!_
+\_Welcome! I am a Junior studying computer science and psychology at the University of Puget Sound, this site serves both as a place to host my portfolio and show off some of what I've learned in the past few years.
+
+This site is a WIP and is created using React JS with gatsby, source code is public on my Github, feel free to give it a look!
+\_
