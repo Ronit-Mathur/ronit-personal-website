@@ -2,7 +2,7 @@
 
 module.exports = {
   url: "https://ronit-mathur.netlify.app/",
-  pathPrefix: "/",
+  pathPrefix: "/pages/about",
   title: "Ronits Thought Bucket",
   subtitle: "Development & Psychology With a Hint of Introspection",
   copyright: "© All rights reserved.",
@@ -38,10 +38,10 @@ module.exports = {
       facebook: "#",
       telegram: "#",
       twitter: "#",
-      github: "#Ronit-Mathur",
+      github: "https://github.com/Ronit-Mathur",
       rss: "",
       vkontakte: "",
-      linkedin: "#",
+      linkedin: "https://www.linkedin.com/in/ronitmathur/",
       instagram: "#",
       line: "",
       gitlab: "",
