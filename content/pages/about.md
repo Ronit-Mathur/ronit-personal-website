@@ -4,6 +4,7 @@ template: "page"
 socialImage: "/media/RonitProfilePicture.jpg"
 ---
 
-Welcome! I am a Junior studying computer science and psychology at the University of Puget Sound, this site serves both as a place to host my portfolio and show off some of what I've learned in the past few years.
+How did you even get here...
+I know what I'm doing, trust me.
 
-This site is a WIP and is created using React JS with gatsby, source code is public on my Github, feel free to give it a look!
+This site is an archived experiment, if you are looking for a portfolio check out my Linkedin or shoot me an email instead!

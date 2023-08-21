@@ -14,11 +14,11 @@ module.exports = {
   menu: [
     {
       label: "About me",
-      path: "/",
+      path: "/pages/about",
     },
     {
       label: "Articles",
-      path: "/Articles",
+      path: "/",
     },
     {
       label: "Contact me",
