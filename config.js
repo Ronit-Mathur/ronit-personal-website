@@ -3,8 +3,8 @@
 module.exports = {
   url: "https://ronit-mathur.netlify.app/",
   pathPrefix: "/pages/about",
-  title: "Ronits Thought Bucket",
-  subtitle: "Development & Psychology With a Hint of Introspection",
+  title: "Ronit Mathur",
+  subtitle: "",
   copyright: "© All rights reserved.",
   disqusShortname: "",
   postsPerPage: 4,
@@ -14,25 +14,21 @@ module.exports = {
   menu: [
     {
       label: "About me",
-      path: "/pages/about",
+      path: "/",
     },
     {
       label: "Articles",
-      path: "/",
+      path: "/Articles",
     },
     {
       label: "Contact me",
       path: "/pages/contacts",
     },
-    {
-      label: "Projects",
-      path: "/Projects",
-    },
   ],
   author: {
     name: "Ronit Mathur",
     photo: "/RonitProfilePicture.jpg",
-    bio: "Mind, Heart, Body, & Web Dev",
+    bio: "",
     contacts: {
       email: "ronitmathur19@gmail.com",
       facebook: "#",
